@@ -83,3 +83,9 @@ ol {
 footer {
   font-size: 15px;
 }
+
+@media (max-width: 684px) {
+  body {
+    max-width: 90%;
+  }
+}
